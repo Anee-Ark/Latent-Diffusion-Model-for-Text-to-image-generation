@@ -101,7 +101,7 @@ The project utilizes a **latent diffusion framework** to generate images conditi
 | Prompt                                      | Generated Image                |
 |---------------------------------------------|--------------------------------|
 | *"A toddler playing in a sandbox"* | ![Example Image 1](path-to-image-1) |
-| *"A golden retriever playing in a field"*   | ![Example Image 2](path-to-image-2) |
+| *"A Wonem hiking in the forest"*   | ![Example Image 2](path-to-image-2) |
 
 ### Key Observations
 
