@@ -100,8 +100,8 @@ The project utilizes a **latent diffusion framework** to generate images conditi
 
 | Prompt                                      | Generated Image                |
 |---------------------------------------------|--------------------------------|
-| *"A toddler playing in a sandbox"* | ![Example Image 1](https://github.com/Anee-Ark/Latent-Diffusion-Model-for-Text-to-image-generation/blob/main/Results.png) |
-| *"A Wonem hiking in the forest"*   | ![Example Image 2](path-to-image-2) |
+| *"A toddler playing in a sandbox"* | ![Example Image 1]([path-to-image-1] (https://github.com/Anee-Ark/Latent-Diffusion-Model-for-Text-to-image-generation/blob/main/Results.png) |
+| *"A Wonem hiking in the forest"*   | ![Example Image 2]([path-to-image-2](https://github.com/Anee-Ark/Latent-Diffusion-Model-for-Text-to-image-generation/blob/main/Results1.png)) |
 
 ### Key Observations
 
